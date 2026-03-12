@@ -1,6 +1,8 @@
-# BN-Fact-Check`
+# BN-Fact-Check
 
 ## Overview
+
+## Project Structure
 
 ## About Dataset
 
