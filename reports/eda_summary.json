@@ -1,0 +1,25 @@
+{
+    "train_rows": 2700,
+    "validate_rows": 900,
+    "train_duplicates": 33,
+    "train_nulls": 0,
+    "validate_nulls": 0,
+    "label_counts_train": {
+        "Neutral": 1166,
+        "Personal": 856,
+        "Geopolitical": 401,
+        "Religious": 158,
+        "Political": 119
+    },
+    "label_counts_validate": {
+        "Neutral": 433,
+        "Personal": 276,
+        "Geopolitical": 110,
+        "Religious": 44,
+        "Political": 37
+    },
+    "imbalance_ratio": 9.8,
+    "word_count_min": 4,
+    "word_count_max": 33,
+    "word_count_mean": 11.3
+}
